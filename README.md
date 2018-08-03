@@ -1,2 +1,2 @@
 # Quote-machine
-A random quote generator build with jQuery and a random quote API.
+An app that finds and displays random quotes via an API. 

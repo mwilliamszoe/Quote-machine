@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(201, 44, 212);
+    color: rgb(39, 39, 53);
+    font-family: 'Sans-serif';
+    font-size: 1.5rem;
+}
+
+#white-space {
+    background-color: whitesmoke;
+    padding: 25px 30px;
+    margin: 141px 57px;
+}
+
+i.fas.fa-quote-left {
+    float: left;
+    margin-right: 1%;
+}
+
+footer#author {
+    text-align: right;
+    font-size: 15px;
+}
+
+#new-quote {
+    border: none;
+    padding: 5px;
+    background-color:rgb(201, 44, 212);
+    color: whitesmoke;
+    float: right;
+    font-size: 13px;
+    padding: 12px 22px;
+    margin: 20px 36px;
+    border-radius: 5px;
+    outline:0;
+}
+
+#tweet-quote, #tumblr-quote {
+    color: rgb(39, 39, 53);
+    /* background-color:rgb(201, 44, 212); */
+    font-size: 40px;
+    cursor: pointer;
+    margin: 28px 2px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(39, 39, 53);
+}
+
